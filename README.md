@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/048a5a08-fee6-4849-82c2-8def8c1b5289" width="400" alt="Hyprchan Logo">
 </p>
-
+<h1 align="center">>>> UPDATE: RELEASE ON 15th of June!!</h1>
 <h1 align="center">🌸 Hyprchan Waiting Repo 🌸</h1>
 
 <p align="center">
